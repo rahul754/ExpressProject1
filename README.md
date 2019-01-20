@@ -1,17 +1,17 @@
-<div align="center">  Express Hello World Project   </div>
-<div align='center'>it is basic  Express Project</div>
+<div align="center"> <h1> Express Hello World Project </h1>  </div>
+<div align='center'> It is basic  Express Project</div>
 
 
-##How to run 
+ ##How to run 
 
- #Open a command prompt and type:
+ Open a command prompt and type:
  
  ```bash
  mkdir myapp
  cd myapp
  ```
   
- #Run project below command
+ Run project below command
  ```bash
  node app.js
  ```
