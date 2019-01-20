@@ -2,16 +2,16 @@
 <div align='center'> It is basic  Express Project</div>
 
 
- ##How to run 
+ ## How to run 
 
- Open a command prompt and type:
+ # Open a command prompt and type:
  
  ```bash
  mkdir myapp
  cd myapp
  ```
   
- Run project below command
+# Run project below command
  ```bash
  node app.js
  ```
